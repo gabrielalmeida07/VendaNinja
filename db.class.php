@@ -3,16 +3,16 @@
 class db {
 
 	//host
-	private $host = 'localhost';
+	private $host = 'us-cdbr-iron-east-03.cleardb.net';
 
 	//usuario
-	private $usuario = 'root';
+	private $usuario = 'b55df536184480';
 
 	//senha
-	private $senha = '';
+	private $senha = '10c929a6';
 
 	//banco de dados
-	private $database = 'vendas_ninja';
+	private $database = 'heroku_05033bcdb36596e';
 
 	public function conecta_mysql(){
 
