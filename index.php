@@ -156,7 +156,7 @@
 					<h3>	VOCÊ SABIA?</h3>
 						
 
-<p>Cerca de 40% dos vendedores não sabem o que é, nem como identificar, a
+<p>Cerca de 38% dos vendedores não sabem o que é, nem como identificar, a
 
 necessidade (ou verdadeira dor) de um cliente segundo o coaching
 
